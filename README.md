@@ -63,4 +63,5 @@ cd nome-do-repo
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome] — [@seuusuario](https://github.com/seuusuario)
+Desenvolvido por [Gbrt] — [@_gbrt._]
+
